@@ -13,8 +13,8 @@
 <h2 align="center">Quem eu sou?</h2>
 
 ###
+<p align="left">👩🏻‍💻Aprendiz em Soluções Digitais na Bosch Brasil.<br>📚 Estudante de Desenvolvimento de Sistemas no Senai Roberto Mange.<br> 🖥️Técnica de Informática para Internet pela Escola Técnica de Hortolândia <br> 🖥️ 1/8 Graduação em  Sistemas da Informação <br> .</p>
 
-<p align="left">👩🏻‍💻Aprendiz em Soluções Digitais na Bosch Brasil.<br>📚 Estudante de Desenvolvimento de Sistemas no Senai Roberto Mange.<br>🖥️Técnica de Informática para Internet pela Escola Técnica de Hortolândia .<br>🖥️ 1/8 Graduação em  Sistemas da Informação .
 
 ###
 
