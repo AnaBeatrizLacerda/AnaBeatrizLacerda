@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻Aprendiz em Soluções Digitais na Bosch Brasil.<br>📚 Estudante de Desenvolvimento de Sistemas no Senai Roberto Mange.<br>🖥️Técnica de Informática para Internet pela Escola Técnica de Hortolândia .</p><br>🖥️ 1/8 Graduação em  Sistemas da Informação .</p>
+<p align="left">👩🏻‍💻Aprendiz em Soluções Digitais na Bosch Brasil.<br>📚 Estudante de Desenvolvimento de Sistemas no Senai Roberto Mange.<br>🖥️Técnica de Informática para Internet pela Escola Técnica de Hortolândia .<br>🖥️ 1/8 Graduação em  Sistemas da Informação .
 
 ###
 
